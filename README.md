@@ -32,7 +32,7 @@ http://howtodoright.com/squirrels/
 * North America
 * Europe
 
-
+![alt text](http://www.slate.com/content/dam/slate/articles/health_and_science/Science/2016/05/160511_SCI_frustrated-squirrel.jpg.CROP.promo-mediumlarge.jpg)
 
 
 
