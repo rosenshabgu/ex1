@@ -27,10 +27,11 @@ http://howtodoright.com/squirrels/
 
 10.	The squirrel is the Native American symbol for preparation, trust and thriftiness.
 
+# Common in:
 
+* North America
 
-
-
+* Europe
 
 
 
