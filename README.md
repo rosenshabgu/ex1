@@ -1,9 +1,6 @@
 # About squirrels
 
-Link to source website:
-
-http://howtodoright.com/squirrels/
-
+[Source website](http://howtodoright.com/squirrels/)
 
 # Important facts:
 
@@ -34,7 +31,6 @@ http://howtodoright.com/squirrels/
 
 ![alt text](http://www.slate.com/content/dam/slate/articles/health_and_science/Science/2016/05/160511_SCI_frustrated-squirrel.jpg.CROP.promo-mediumlarge.jpg)
 
-
-
+# Species table:
 
 
