@@ -33,4 +33,9 @@
 
 # Species table:
 
+| Species        | זן           | Cool  |
+| ------------- |:-------------:| -----:|
+| Western gray squirrel      | סנאי מערבי אפור | $1600 |
+| Eastern gray squirrel      | centered      |   $12 |
+| Douglas squirrel | are neat      |    $1 |
 
