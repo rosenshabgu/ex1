@@ -33,10 +33,10 @@
 
 # Species table:
 
-| Species        | זן           | Cool  |
-| ------------- |:-------------:| -----:|
-| Western gray squirrel      | סנאי מערבי אפור | $1600 |
-| Eastern gray squirrel      | סנאי מזרחי אפור      |   $12 |
-| Douglas squirrel | סנאי דאגלס      |    $1 |
-| Eastern fox squirrel | סנאי מזרחי אדום      |    $1 |
+| Species        | זן           |
+| ------------- |:-------------:|
+| Western gray squirrel      | סנאי מערבי אפור |
+| Eastern gray squirrel      | סנאי מזרחי אפור      |
+| Douglas squirrel | סנאי דאגלס      |
+| Eastern fox squirrel | סנאי מזרחי אדום      |
 
