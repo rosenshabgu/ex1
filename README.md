@@ -30,7 +30,6 @@ http://howtodoright.com/squirrels/
 # Common in:
 
 * North America
-
 * Europe
 
 
