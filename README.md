@@ -1,8 +1,8 @@
-## About squirrels
+# About squirrels
 
 [Source website](http://howtodoright.com/squirrels/)
 
-# Important facts:
+## Important facts:
 
 1. There are over 265 species of squirrel worldwide. The smallest is the African pygmy squirrel which is tiny at around 10 cm long, whereas the largest, the Indian giant squirrel is a massive three feet long.
 
@@ -24,14 +24,14 @@
 
 10.	The squirrel is the Native American symbol for preparation, trust and thriftiness.
 
-# Common in:
+## Common in:
 
 * North America
 * Europe
 
 ![alt text](http://www.slate.com/content/dam/slate/articles/health_and_science/Science/2016/05/160511_SCI_frustrated-squirrel.jpg.CROP.promo-mediumlarge.jpg)
 
-# Species table:
+## Species table:
 
 | Species        | זן           |
 | ------------- |:-------------:|
